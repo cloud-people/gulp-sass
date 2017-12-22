@@ -1,5 +1,5 @@
 {
-  "name": "gulp-sass",
+  "name": "@cloudpeople/gulp-sass",
   "version": "3.1.0",
   "description": "Gulp plugin for sass",
   "main": "index.js",
